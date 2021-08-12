@@ -889,7 +889,7 @@ footer span a:hover {
 }
 
 .skill_level_script {
-    width: 50%;
+    width: 60%;
     padding-left: 17px;
     text-align: right;
     color: black;
@@ -905,12 +905,12 @@ footer span a:hover {
     margin-top: -30px;
 }
 
-.jquery {
+.PHP {
     padding-bottom: 10px;
 }
 
-.skill_level_jquery {
-    width: 50%;
+.skill_level_php {
+    width: 80%;
     padding-left: 17px;
     text-align: right;
     color: black;
@@ -921,7 +921,30 @@ footer span a:hover {
 
 
 
-.skill_jquery {
+.skill_php {
+    float: right;
+    margin-top: -30px;
+}
+
+.laravel {
+    padding-top: 10px;
+}
+
+.skill_level_laravel {
+    width: 80%;
+    padding-left: 17px;
+    text-align: right;
+    color: black;
+    background: #dc143c;
+    border-radius: 5px;
+    height: 5px;
+    transition: all 1s ease-in-out;
+
+}
+
+
+
+.skill_laravel {
     float: right;
     margin-top: -30px;
 }
@@ -947,12 +970,12 @@ footer span a:hover {
     margin-top: -30px;
 }
 
-.PHP {
+.jquery {
     padding-bottom: 10px;
 }
 
-.skill_level_php {
-    width: 70%;
+.skill_level_jquery {
+    width: 50%;
     padding-left: 17px;
     text-align: right;
     color: black;
@@ -963,16 +986,19 @@ footer span a:hover {
 
 
 
-.skill_php {
+.skill_jquery {
     float: right;
     margin-top: -30px;
 }
 
-.laravel {
+
+
+
+.vueJs {
     padding-top: 10px;
 }
 
-.skill_level_laravel {
+.skill_level_vueJs {
     width: 65%;
     padding-left: 17px;
     text-align: right;
@@ -980,35 +1006,12 @@ footer span a:hover {
     background: #dc143c;
     border-radius: 5px;
     height: 5px;
-    transition: all 1s ease-in-out;
 
 }
 
 
 
-.skill_laravel {
-    float: right;
-    margin-top: -30px;
-}
-
-.vuejs {
-    padding-top: 10px;
-}
-
-.skill_level_vuejs {
-    width: 60%;
-    padding-left: 17px;
-    text-align: right;
-    color: black;
-    background: #dc143c;
-    border-radius: 5px;
-    height: 5px;
-
-}
-
-
-
-.skill_vuejs {
+.skill_vueJs {
     float: right;
     margin-top: -30px;
 }
